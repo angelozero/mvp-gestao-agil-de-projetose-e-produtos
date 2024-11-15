@@ -1,2 +1,1 @@
-# mvp-gestao-agil-de-projetose-e-produtos-
-Pós Engenharia de Software - Sprint: Gestão Ágil de Projetos e Produtos 
+# Pós Engenharia de Software - MVP Gestão Ágil de Projetos e Produtos 
