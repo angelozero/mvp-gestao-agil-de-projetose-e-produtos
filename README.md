@@ -62,7 +62,7 @@
 
 
 ### 4 - Personas
-- 1 A pessoa
+- A pessoa
 
 ![alt text](./images/image-6.png)
 
