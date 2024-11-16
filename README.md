@@ -14,7 +14,7 @@
  ![alt text](./images/image.png)
 
 ---
-### 2 - É ou Não é / Faz ou Não Faz
+### 2 - É / Não é / Faz / Não Faz
 - **É**:
     - Aplicativo Web
     - Interface amigável
