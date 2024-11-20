@@ -169,4 +169,5 @@
 | Backlog do Produto | https://angeloakm.atlassian.net/jira/software/projects/MGA/boards/6/backlog |
 | Backlog do Sprint | https://angeloakm.atlassian.net/jira/software/projects/MGA/boards/6?selectedIssue=MGA-3 |
 | MVP Canvas | https://miro.com/app/board/uXjVLEEYgmk=/?share_link_id=409085500565 |
-| Wireframe Figma | https://www.figma.com/proto/KtZmxJkruUpUfThsa0fSkc/MVP---Gest%C3%A3o---%C3%81gil---Cadastro-de-Funcion%C3%A1rios?node-id=3-3186&t=ETOwNoNIE0vJQzLL-1 |
+| Wireframe Figma | https://www.figma.com/proto/KtZmxJkruUpUfThsa0fSkc/MVP---Gest%C3%A3o---%C3%81gil---Cadastro-de-Funcion%C3%A1rios?node-id=1-7&t=ETOwNoNIE0vJQzLL-1 |
+| Video | https://youtu.be/FfTcrq2YPsQ |
