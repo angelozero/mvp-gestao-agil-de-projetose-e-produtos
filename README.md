@@ -2,7 +2,7 @@
 - ## MVP Gestão Ágil de Projetos e Produtos 
 
 # MVP
-- Para acesso ao canvas do mvp [clique aqui](https://miro.com/app/board/uXjVLEEYgmk=/?share_link_id=520923571307) .
+- Para acesso ao canvas do mvp [clique aqui]([https://miro.com/app/board/uXjVLEEYgmk=/?share_link_id=520923571307](https://miro.com/app/board/uXjVLEEYgmk=/?share_link_id=409085500565)) .
 ### 1 - Visão de Produto
 - **Para**: O Sistema de Gestão de Funcionários
 - **Cujo**: Gerencia o cadastro de Funcionários
